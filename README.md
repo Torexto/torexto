@@ -1,19 +1,20 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tomek 👋
 
-I'm a [Your Role, e.g., Software Developer] based in [Your Location]. I focus on building reliable software and solving practical tech problems.
+I'm a developer based in Lower Silesia, Poland 🇵🇱. I focus on building web applications, writing clean code, and working with modern web technologies and Linux environments.
 
 ### What I'm working on
-- 🔭 **Currently building:** [Project Name or type of app]
-- 🌱 **Learning & exploring:** [Technology, e.g., Rust, Cloud Architecture]
-- 💬 **Ask me about:** [Tools you know well, e.g., JavaScript, Python, React]
-- ⚡ **Outside of coding:** [Personal interest, e.g., cycling, board games, coffee brewing]
+- 🔭 **Currently building:** Web apps using React, TypeScript, and Tailwind CSS
+- 🌱 **Learning & exploring:** Rust, backend systems, and low-level tooling
+- 💬 **Ask me about:** React, TypeScript, Python, or Arch Linux
+- ⚡ **Outside of coding:** Gaming, custom modding
 
 ### Tech & Tools
-- **Languages:** JavaScript, TypeScript, Python, SQL
-- **Frameworks & Libraries:** React, Node.js, Next.js, Tailwind CSS
-- **Infrastructure & Tools:** Docker, Git, PostgreSQL, AWS
+- **Languages:** TypeScript, JavaScript, Python, C#, Rust, Kotlin, PHP
+- **Frontend & Web:** React, Next.js, Vite, Tailwind CSS, Zod
+- **Backend & DB:** Axum, Node.js, PostgreSQL
+- **Tools & Environment:** Git, Docker, Arch Linux, Linux tooling
 
 ### Reach out
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio:** [your-website.com](https://your-website.com)
-- 📬 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/torexto](https://linkedin.com/in/torexto)
+- 🌐 **Portfolio:** [torexto.github.io](https://torexto.github.io)
+- 📬 **Email:** [tomasztrela8@gmail.com](mailto:tomasztrela8@gmail.com)
